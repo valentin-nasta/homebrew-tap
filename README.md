@@ -1,2 +1,2 @@
-# yourkit-java-profiler
+# homebrew-tap
 yourkit-java-profiler cask
