@@ -1,9 +1,9 @@
 cask "yourkit-java-profiler" do
   arch arm: "arm64", intel: "x64"
 
-  version "2026.3.157"
-  sha256 arm:   "08a8902a1c8ba1d2f0893f5b13afdd78b7ea5f08c562a1bee904a06f62cbeff9",
-         intel: "74b75bf6f0bba8b485cb1080d191b574d5106a15e96c13f49a49c55ddd01cd4f"
+  version "2026.9.146"
+  sha256 arm:   "8fee71ea8fd18ae09fd24102a161e52a529ab3f59b03e6c9ead7e7a8b7104e4e",
+         intel: "3a30feb9dedb6a94ac068846d02f0ff0d6ea8822f0925856824910e5783c9a35"
 
   url "https://download.yourkit.com/yjp/#{version}/YourKit-Java-Profiler-#{version}-#{arch}.dmg"
   name "YourKit Java Profiler"
